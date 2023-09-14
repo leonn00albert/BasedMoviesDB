@@ -9,6 +9,13 @@ Develop a CRUD REST Movie details API using the Slim PHP framework. The API shou
 2. MariaDB 
 
 ## Setup 
+
+``` bash
+clone the repo 
+
+composer install
+
+```
 1. Setup your env file 
 
 ```bash
