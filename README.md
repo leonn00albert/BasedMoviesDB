@@ -12,8 +12,10 @@ Develop a CRUD REST Movie details API using the Slim PHP framework. The API shou
 
 ``` bash
 clone the repo 
-
+cd in to folder
 composer install
+php -S localhost:8080 -t public public/index.php
+
 
 ```
 1. Setup your env file 
